@@ -1,6 +1,6 @@
 # Waldo Ketonou  
 ### Business & Data Analyst  
-#### SQL • Python • R • Tableau • Excel
+#### SQL • Python • R • Tableau • Excel • Google Sheets
 
 Welcome to my analytics portfolio. I combine 18+ years of operational leadership with modern data analytics to solve real business problems. My work focuses on KPI development, forecasting, dashboard design, and data storytelling that drives measurable impact.
 
