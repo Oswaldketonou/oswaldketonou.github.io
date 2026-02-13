@@ -15,6 +15,14 @@ Exploratory data analysis and visualization of environmental factors affecting l
 - Delivered actionable recommendations  
 **Repo:** [View Project](https://github.com/Oswaldketonou/lettuce-growth-optimization)
 
+ ### **Retail KPI Dashboard (Tableau + Excel)**
+Built a performance dashboard for a multi‑unit retail operation using historical sales, labor, and inventory data.  
+- Tracked KPIs like sales per labor hour, shrink rate, and conversion  
+- Designed filters for region, store, and time period  
+- Delivered insights that improved staffing and inventory decisions  
+**Dashboard:** [View Tableau Dashboard](https://public.tableau.com/app/profile/yourusername/viz/retail-kpi-dashboard)  
+**Repo:** [View Project](https://github.com/Oswaldketonou/retail-kpi-dashboard) 
+
 ---
 
 ##  Technical Skills
