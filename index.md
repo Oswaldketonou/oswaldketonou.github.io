@@ -6,7 +6,7 @@ Welcome to my analytics portfolio. I combine 18+ years of operational leadership
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 ### **Lettuce Growth Optimization (R + tidyverse)**
 Exploratory data analysis and visualization of environmental factors affecting lettuce growth.  
@@ -17,7 +17,7 @@ Exploratory data analysis and visualization of environmental factors affecting l
 
 ---
 
-## 🧰 Technical Skills
+##  Technical Skills
 - **Languages:** SQL, Python, R  
 - **Tools:** Tableau, Excel (Advanced), Google Sheets  
 - **Analytics:** Data Cleaning, EDA, Forecasting, KPI Design  
@@ -26,7 +26,7 @@ Exploratory data analysis and visualization of environmental factors affecting l
 
 ---
 
-## 🧑‍💼 About Me
+##  About Me
 I’m a Business & Data Analyst with a unique hybrid background: deep operational experience paired with strong analytical skills. I help organizations turn messy data into clear insights that improve efficiency, profitability, and decision‑making.
 
 I’m currently building a portfolio of dashboards and case studies through **WaldoSphere Group LLC**.
