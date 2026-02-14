@@ -9,7 +9,10 @@ Welcome to my analytics portfolio. I combine 18+ years of operational leadership
 ##  Featured Projects
 
 ### **Lettuce Growth Optimization (R + tidyverse)**
-Exploratory data analysis and visualization of environmental factors affecting lettuce growth.  
+Exploratory data analysis and predictive modeling of environmental factors affecting lettuce growth.  
+Built regression, random forest, and XGBoost models to predict harvest time.  
+Simulated environmental improvements to estimate operational impact.  
+🔗 [View Modeling Notebook](https://github.com/Oswaldketonou/lettuce-growth-optimization/blob/main/lettuce_growth_modeling.html) 
 - Identified key drivers of growth  
 - Built visualizations using ggplot2  
 - Delivered actionable recommendations  
