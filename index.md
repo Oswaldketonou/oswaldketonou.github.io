@@ -23,7 +23,8 @@ Built a performance dashboard for a multi‑unit retail operation using historic
 - Tracked KPIs like sales per labor hour, shrink rate, and conversion  
 - Designed filters for region, store, and time period  
 - Delivered insights that improved staffing and inventory decisions  
-**Dashboard:** [View Tableau Dashboard][(https://public.tableau.com/views/LettuceGrowthOptimizationDashboard/LettuceGrowthOptimizationDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+**Dashboard:** [View Tableau Dashboard](https://public.tableau.com/views/LettuceGrowthOptimizationDashboard/LettuceGrowthOptimizationDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  
 **Repo:** [View Project](https://github.com/Oswaldketonou/retail-kpi-dashboard) 
 
 ---
