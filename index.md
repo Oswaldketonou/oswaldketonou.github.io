@@ -8,6 +8,22 @@ Welcome to my analytics portfolio. I combine 18+ years of operational leadership
 
 ##  Featured Projects
 
+### **Walmart Sales Forecasting & KPI Dashboard (SQL + R + Tableau)**
+
+End‑to‑end analytics project analyzing Walmart weekly sales across multiple stores and departments.  
+Includes SQL-based data cleaning, R forecasting models, and a polished Tableau dashboard (publishing soon).
+
+🔗 Tableau Dashboard: *Coming soon — will be added once published*
+
+- Cleaned and structured raw Walmart sales data using SQL  
+- Built forecasting models in R (Random Forest + baseline models)  
+- Designed KPI cards and weekly trend visuals in Tableau  
+- Delivered insights on seasonality, holiday lift, and store performance  
+
+**Repo:**  
+[View Project](https://github.com/Oswaldketonou/walmart_sales_project)
+
+
 ### **Lettuce Growth Optimization (R + tidyverse)**
 Exploratory data analysis and predictive modeling of environmental factors affecting lettuce growth.  
 Built regression, random forest, and XGBoost models to predict harvest time.  
