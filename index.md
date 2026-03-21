@@ -20,8 +20,7 @@ Includes SQL-based data cleaning, R forecasting models, and a polished Tableau d
 - Designed KPI cards and weekly trend visuals in Tableau  
 - Delivered insights on seasonality, holiday lift, and store performance  
 
-**Repo:**  
-[View Project](https://github.com/Oswaldketonou/walmart_sales_project)
+**Repo:** [View Project](https://github.com/Oswaldketonou/walmart_sales_project)
 
 
 ### **Lettuce Growth Optimization (R + tidyverse)**
