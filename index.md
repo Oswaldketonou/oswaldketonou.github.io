@@ -13,7 +13,7 @@ Welcome to my analytics portfolio. I combine 18+ years of operational leadership
 End‑to‑end analytics project analyzing Walmart weekly sales across multiple stores and departments.  
 Includes SQL-based data cleaning, R forecasting models, and a polished Tableau dashboard (publishing soon).
 
-🔗 Tableau Dashboard: *Coming soon — will be added once published*
+🔗 [Tableau Dashboard:](https://public.tableau.com/views/walmartSalesPerformanceDashoard2010-2012/KeyPerformanceIndicators2010-2012?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - Cleaned and structured raw Walmart sales data using SQL  
 - Built forecasting models in R (Random Forest + baseline models)  
