@@ -57,12 +57,12 @@ Built a performance dashboard for a multi‑unit retail operation using historic
 ##  About Me
 I’m a Business & Data Analyst with a unique hybrid background: deep operational experience paired with strong analytical skills. I help organizations turn messy data into clear insights that improve efficiency, profitability, and decision‑making.
 
-I’m currently building a portfolio of dashboards and case studies through **WaldoSphere Group LLC**.
+I’m currently building a portfolio of dashboards and case studies through **WaldoSphere Group**.
 
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/oswald-ketonou  
+- **LinkedIn:** https://www.linkedin.com/in/oswald-s-ketonou-12834197  
 - **GitHub:** https://github.com/Oswaldketonou  
 
 ---
