@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 # Waldo Ketonou  
 ### Business & Data Analyst  
 #### SQL • Python • R • Tableau • Excel • Google Sheets
